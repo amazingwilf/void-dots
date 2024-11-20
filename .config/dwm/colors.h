@@ -1,0 +1,13 @@
+static const char col_black[]       = "#000000";
+static const char col_gray1[]       = "#0F1419";
+static const char col_gray2[]       = "#3E4B59";
+static const char col_gray3[]       = "#E6E1CF";
+static const char col_gray4[]       = "#F3F4F5";
+static const char col_red[]         = "#F07178";
+static const char col_orange[]      = "#FF8F40";
+static const char col_yellow[]      = "#FFB454";
+static const char col_green[]       = "#B8CC52";
+static const char col_cyan[]        = "#95E6CB";
+static const char col_blue[]        = "#59C2FF";
+static const char col_magenta[]     = "#D2A6FF";
+static const char col_accent[]      = "#0101a1";
